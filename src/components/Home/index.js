@@ -61,7 +61,7 @@ const Home = () => {
           {' '}
           CONTACT ME{' '}
         </Link>
-        <a href ="https://drive.google.com/file/d/1OYBMgXzwM7P_AAlWx3D2B6fWQvezRuXL/view?usp=sharing" class="flat-button" target="_blank">VIEW RESUME</a>
+        <a href ="https://drive.google.com/file/d/1Cr16OzWAntg76ongPS-yDWDQSDCm7fA-/view?usp=sharing" class="flat-button" target="_blank">VIEW RESUME</a>
         </div>
       </div>
       <Cubes />
